@@ -96,8 +96,8 @@ Egyptian_Monuments_CNN_with_GradCAM.ipynb
 
 Feel free to connect or reach out!
 
-- 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)
+- 📧 Email: belalomran2008@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/belal-omran-b20443258/)
 
 ---
 
